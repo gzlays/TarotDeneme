@@ -1,9 +1,11 @@
 <img width="199" alt="Ekran görüntüsü 2024-03-26 194714" src="https://github.com/gzlays/TarotDeneme/assets/103950212/82fab043-239e-4232-841d-bee0dadf9446">
 
 
-
-
 <img width="206" alt="Ekran görüntüsü 2024-03-26 194852" src="https://github.com/gzlays/TarotDeneme/assets/103950212/12bc1a10-2479-4d94-a963-4ed7a8f52d75">
+
+
+
+In the mobile application I developed, I utilized LazyVerticalGrid and a card flip animation. The main page has a LazyVerticalGrid containing 20 cards. Clicking on any of these cards will initially show the card's image. Clicking on the image again will flip the card 180 degrees, revealing its meaning.
 
 
 
